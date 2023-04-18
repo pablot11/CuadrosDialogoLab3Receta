@@ -1,0 +1,11 @@
+D:\Escritorio\pryComidas\bin\Debug\pryComidas.exe.config
+D:\Escritorio\pryComidas\bin\Debug\pryComidas.exe
+D:\Escritorio\pryComidas\bin\Debug\pryComidas.pdb
+D:\Escritorio\pryComidas\obj\Debug\pryComidas.csproj.AssemblyReference.cache
+D:\Escritorio\pryComidas\obj\Debug\pryComidas.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryComidas\obj\Debug\pryComidas.Form1.resources
+D:\Escritorio\pryComidas\obj\Debug\pryComidas.Properties.Resources.resources
+D:\Escritorio\pryComidas\obj\Debug\pryComidas.csproj.GenerateResource.cache
+D:\Escritorio\pryComidas\obj\Debug\pryComidas.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryComidas\obj\Debug\pryComidas.exe
+D:\Escritorio\pryComidas\obj\Debug\pryComidas.pdb
